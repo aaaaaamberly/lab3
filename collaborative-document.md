@@ -18,6 +18,7 @@ title: "ST344 Lab 3: A collaborative document"
 - James Walsh
 - Harrison Wilde
 - Dana Penistone
+- Yue Li
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -272,6 +273,8 @@ For females however, the proportion does not change much over time, perhaps due 
 ### YUE
 
     03 12 18
+![](lab3/YL-plot.svg)
+      
     
 ### ZECHI
 
