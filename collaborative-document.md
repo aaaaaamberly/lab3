@@ -276,7 +276,9 @@ For females however, the proportion does not change much over time, perhaps due 
     
  ![Caring for family VS Age](YL-plot.svg)
  
- This plot illustrates the difference of female and male of different age to spend time for family. As we know that there is only 24 hours a day, once people have put too much time in family issues, for example kids' health and education, household works (quote from [lexiconnoex0317](lab3/lexiconnoex0317.pdf)), they would lack of time to do something else. From the graph, we could see that the big gap of time-consuming starts from 24 to 54. In other words, female would have less time to concentrate on their studies or careers for a continuous 30 years. In real world, many women choose to be the housewives after marriage or pregnancy, which might explain the pink curve reaches it peak area from 30 to 40. The reality is that the difference would keep until they are nearly 60.
+This plot illustrates the difference of female and male of different age to spend time for family. As we know that the time of a day is fixed, once people have put too much time in family issues, for example kids' health and education, household works (quote from [lexiconnoex0317](lab3/lexiconnoex0317.pdf)), they would lack of time to do something else. From the graph, we could see that the big gap of time-consuming starts from 24 to 54. In other words, female would have less time to concentrate on their studies or careers for the continuous 30 years. In real world, many women choose to be the housewives after marriage or pregnancy, which might explain the pink curve reaches it peak area from 30 to 40. The reality is that the difference would keep until they are nearly 60. 
+
+It doesn't mean that men do nothing for the family. We could see that the blue curve also reaches its peak area from 30 to 40. The reason might be that men tend to earn the money to support the family rather than spend time.
       
   
 ### ZECHI
