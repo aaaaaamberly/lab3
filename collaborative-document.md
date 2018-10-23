@@ -274,7 +274,7 @@ For females however, the proportion does not change much over time, perhaps due 
 
     03 12 18
     
-    ![](YL-plot.svg)
+ ![](YL-plot.svg)
       
     
 ### ZECHI
